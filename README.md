@@ -7,7 +7,9 @@
 
 ##colors
 *red
+
 *blue
+
 *green
 
 'mkdir'
