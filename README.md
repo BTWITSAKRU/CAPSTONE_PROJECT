@@ -7,15 +7,15 @@
 
 ###colors
 
-*red
+* red
 
-*blue
+* blue
 
-*green
+* green
 
-'mkdir'
+`mkdir`
 
-***c
+```c
 #include<stdio.h>
 
 using namespace std;
