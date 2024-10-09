@@ -12,7 +12,7 @@
 
 'mkdir'
 
-***c++
+***c
 #include<stdio.h>
 using namespace std;
 int main()
